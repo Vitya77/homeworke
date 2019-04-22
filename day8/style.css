@@ -185,6 +185,11 @@ div.gallery img {
 }
 
 div.desc {
+	background-color: white;
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 25%;
   padding: 15px;
   text-align: center;
   height: 200px;	
