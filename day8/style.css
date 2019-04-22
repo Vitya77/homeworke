@@ -175,17 +175,17 @@ div.gallery {
   width: 25%;
 }
 
-div.gallery:hover {
+div.desc:hover {
   border: 1px solid #777;
 }
 
-div.gallery img {
+div.desc img {
   width: 100%;
   height: auto;
 }
 
 div.desc {
-	background-color: white;
+  background-color: white;
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
