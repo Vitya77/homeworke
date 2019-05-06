@@ -114,13 +114,13 @@ div.desc {
 
   @media screen and (min-width: 1000px) {
 ul {
-  display: flex;
+  display: ;
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 5px;
   overflow: hidden;
   background-color: #4CAF50;
-  width: 100%;
+  width: 98.5%;
   font-size: 20px;
 }
 
@@ -194,27 +194,29 @@ div.desc {
 	clear: both;
   } 
 .header {
-  display: flex;
+  display: block;
   background-color: Lime;
-  padding: 15px;
+  padding: 5px;
   text-align: left;
   height: ;
-  width: 97.5%;
+  width: 98.5%;
 }
 .header img {
   height: 100%;
   width: 120px;
   }
+
 .b {
   display: block;
-  float: right;
   width: 66.66%;
+  float: right;
   height: auto;
   padding: 15px;
   background-color: green;
   text-align: center;
   margin-top: 5px;
   margin-bottom: 5px;
+  margin-right: 1%;
 }  
 .n {
   display: block;
@@ -233,9 +235,10 @@ div.desc {
 .footer {
   display: flex;
   float: down;
-  padding: 15px;
+  padding: 5px;
   background-color: #4CAF50;
-  width: 97.5%;
+  width: 98.5%;
   margin-top: 30px;
+  font-size: 20px;
 }
 }
